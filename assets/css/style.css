@@ -19,7 +19,7 @@ a {
 }
 
 .bg {
-    background-image: url("/assets/images/dark-honeycomb.png");
+    background-image: url("assets/images/dark-honeycomb.png");
     height: 86vh;
     overflow: auto;
 }
