@@ -1,0 +1,83 @@
+.my-name {
+    background-color: teal; 
+    text-align: center; 
+    padding: 30px 10px 10px 10px; 
+    color: white
+}
+
+.nav-bar {
+    text-align: right; 
+    padding: 50px 10px 0 0;
+}
+
+.item {
+    padding-right: 20px;    
+}
+
+a {
+    color: black;
+}
+
+.bg {
+    background-image: url("/assets/images/dark-honeycomb.png");
+    height: 86vh;
+    overflow: auto;
+}
+
+#content-div {
+    line-height: 20px; 
+    margin-left: 20px; 
+    width: 88%
+}
+
+#content-p {
+    color: #777777; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    
+    bottom: 0;
+    height: 5%;
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.header {
+    background: #4aaaa5; 
+    color: white;
+    text-align: center;
+}
+
+#content {
+    background-color: white; 
+    height: 75%; 
+    top: 5%;
+}
+
+#heading {
+    text-align: center; 
+    color: #4aaaa5; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.isActive {
+    color: darkblue;
+    font-weight: bold;
+}
+
+/* my name */
+#me {
+    color: #777777; 
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+
+/* Contact Submit button */
+#ok-btn {
+    background-color: #4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
